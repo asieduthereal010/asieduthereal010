@@ -1,6 +1,4 @@
-Do not talk, code. 
-First Year Computer Engineering Student at the University of Ghana, Legon.
-I have only one project under my belt so far. 
+:)
 
 
 <!---
